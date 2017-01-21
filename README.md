@@ -1,5 +1,7 @@
 # hrtimer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/hrtimer.svg)](https://greenkeeper.io/)
+
 Wrapper around `process.hrtime`
 
 
